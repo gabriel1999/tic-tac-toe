@@ -1,1 +1,26 @@
 /* Write all your CSS style code in this file! */
+@import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono');
+
+
+body{
+  background-image: url("http://www.texturex.com/albums/Wood-Textures/wood%20texture%20plank%20wall%20ash%20multi%20colored%20wooden%20boards.jpg");
+  background-size: cover;
+}
+
+button {
+  background-color: #AF5959;
+  font-family: "Share Tech Mono";
+  color: #DCA140;
+  border: 1px solid white;
+  margin-top: 10px;
+}
+
+h1{
+  font-family: "Share Tech Mono";
+  color: #DCA140;
+  background-color: #AF5959;
+  border: 1px solid white;
+  padding: 0px;
+  width: 240px;
+  margin-top: 10px;
+}
