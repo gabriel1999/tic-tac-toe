@@ -106,6 +106,7 @@ function topCenter() {
  }
 }
 
+
 function topRight() {
   if(block3 == "empty"){
   if(turn == "player1"){
